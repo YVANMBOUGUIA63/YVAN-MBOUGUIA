@@ -31,6 +31,24 @@ Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvr
 
 Lauréat de la bourse d'excellence SFRI, Université Clermont Auvergne (2026).
 
+## Projets
+
+### [IDE, gouvernance et chaînes de valeur mondiales](projets/ide-gouvernance-cvm/)
+Analyse économétrique de l'effet des IDE et de la qualité de la gouvernance sur l'intégration dans les chaînes de valeur mondiales. ACP pour la construction d'un indice de gouvernance, estimations en panel à effets fixes et variables instrumentales (IV-2SLS).
+**Outils** : R (tidyverse, FactoMineR, factoextra, ggplot2) · Stata (xtreg, xtivreg2)
+
+### [Analyse de la pauvreté monétaire au Nigéria (2010-2018)](projets/analyse-pauvrete-nigeria/)
+Mesure et décomposition de la pauvreté monétaire à partir du GHS-Panel (LSMS-ISA, Banque mondiale). Indices FGT, Watts et Chakravarty, échelle d'équivalence d'Engel, désagrégations régionales et sectorielles.
+
+### [Simulation macroéconomique — Économie française 2023](projets/simulation-econat/)
+Simulation de trois scénarios de politique budgétaire à partir de la Matrice de Comptabilité Sociale de la France. Multiplicateur keynésien, statique comparative.
+
+### [Enquête mobilité et enjeux climatiques](projets/enquete-mobilite-climat/)
+Conception, administration et analyse d'une enquête sur les pratiques de mobilité et la perception des enjeux climatiques à Clermont-Ferrand.
+
+### [Rénovation énergétique — Puy-de-Dôme](projets/rapport-stage-renovation-energetique/)
+Mission de volontariat en service civique au sein de Rénov'actions 63. Sensibilisation à la précarité énergétique, analyse du non-recours aux aides publiques à la rénovation de l'habitat.
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvan-m-34b03b273/)
