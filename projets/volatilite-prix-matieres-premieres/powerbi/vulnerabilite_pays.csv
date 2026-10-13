@@ -1,0 +1,11 @@
+pays,matiere_dominante,dependance_export,recettes_moy_pib,part_matieres_moy,volatilite_moy,indice_vulnerabilite
+Nigéria,Petrole_Brent,65,18.65,65.78,0.0846,5.5669
+Tchad,Petrole_Brent,55,17.75,53.68,0.0846,4.5432
+Zambie,Cuivre,50,18.91,51.25,0.0742,3.8032
+Cameroun,Petrole_Brent,40,15.82,40.58,0.0846,3.4347
+Éthiopie,Cafe_Arabica,45,16.01,44.09,0.0766,3.3771
+Côte d Ivoire,Cacao,35,16.57,35.23,0.0726,2.5569
+Burkina Faso,Coton,40,16.49,40.18,0.0634,2.5461
+Ghana,Cacao,30,16.52,30.67,0.0726,2.2262
+Mali,Coton,35,16.79,34.57,0.0634,2.1905
+Sénégal,Riz,20,16.83,19.52,0.0618,1.2063

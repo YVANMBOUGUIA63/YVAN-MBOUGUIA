@@ -46,6 +46,10 @@ Simulation de trois scénarios de politique budgétaire à partir de la Matrice 
 ### [Enquête mobilité et enjeux climatiques](projets/enquete-mobilite-climat/)
 Conception, administration et analyse d'une enquête sur les pratiques de mobilité et la perception des enjeux climatiques à Clermont-Ferrand.
 
+### [Volatilité des prix des matières premières et vulnérabilité fiscale](projets/volatilite-prix-matieres-premieres/)
+Analyse de la volatilité des cours de huit matières premières (2000-2023) et de son impact sur les recettes fiscales de dix pays d'Afrique subsaharienne. Pipeline SQL + Python, tableau de bord Power BI.
+**Outils** : SQL (SQLite) · Python · Power BI
+
 ### [Rénovation énergétique — Puy-de-Dôme](projets/rapport-stage-renovation-energetique/)
 Mission de volontariat en service civique au sein de Rénov'actions 63. Sensibilisation à la précarité énergétique, analyse du non-recours aux aides publiques à la rénovation de l'habitat.
 
