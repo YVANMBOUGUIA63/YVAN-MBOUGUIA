@@ -1,16 +1,16 @@
 # Yvan Mbouguia
 
-Étudiant en Master 2 Économie du Développement au [CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand). Mes centres d'intéret  portent sur la fiscalité dans les pays en développement, la vulnérabilité macroéconomique et la mobilisation des ressources domestiques.
+Étudiant en Master 2 Économie du Développement au [CERDI](https://cerdi.uca.fr/) (Clermont-Ferrand). Mes travaux portent sur la fiscalité dans les pays en développement, la vulnérabilité macroéconomique et la mobilisation des ressources domestiques.
 
 ## Recherche
 
-Mon mémoire de M2 porte sur l'engagement dans l'application du tarif extérieur commun et la vulnérabilité des recettes fiscales aux chocs de prix des importations dans la zone franc CFA. J'utilise une méthode de double différence sur les pays de la zone franc et un control synthétique, sur la période 2000-2022. L'analyse s'appuie sur  l'écart entre tarifs appliqués et tarifs théoriques du TEC.
+Mon mémoire de M2 porte sur l'engagement dans l'application du tarif extérieur commun et la vulnérabilité des recettes fiscales aux chocs de prix des importations dans la zone franc CFA. J'utilise une méthode de double différence sur les pays de la zone franc et un contrôle synthétique, sur la période 2000-2022. L'analyse s'appuie sur l'écart entre tarifs appliqués et tarifs théoriques du TEC.
 
-Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvreté, politique publique, Commerce internationale, politique regionale; harmonisation fiscale.
+Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvreté, politique publique, commerce international, politique régionale, harmonisation fiscale.
 
 ## Compétences techniques
 
-**Économétrie et données** : Stata, R, EViews, Python, SQL, Microsoft Power BI, SPSS, 
+**Économétrie et données** : Stata, R, EViews, Python, SQL, Power BI, SPSS
 
 **Visualisation et reporting** : Power BI, Excel, Zotero
 
