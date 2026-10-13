@@ -21,7 +21,6 @@ Transition énergétique, précarité énergétique, politique publique locale, 
 ## Structure
 
 ```
+├── rapport_stage.pdf   # Rapport de mission complet
 └── README.md
 ```
-
-Le rapport complet est disponible sur demande.

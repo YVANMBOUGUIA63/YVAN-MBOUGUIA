@@ -21,8 +21,11 @@ Les données proviennent de plusieurs sources : indicateurs de gouvernance de la
 ## Structure
 
 ```
-├── script.R          # Nettoyage, fusion des bases, ACP, visualisations (R)
-├── do.do             # Régressions panel FE et IV-2SLS (Stata)
+├── rapport_gouvernance_ide_cvm.pdf   # Rapport complet
+├── script.R                          # Nettoyage, fusion des bases, ACP, visualisations (R)
+├── do.do                             # Régressions panel FE et IV-2SLS (Stata)
+├── base4.dta                         # Base de données Stata
+├── gouvernance2.dta                  # Base indicateurs de gouvernance
 └── README.md
 ```
 

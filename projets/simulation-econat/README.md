@@ -21,7 +21,6 @@ Chaque scénario produit une croissance du PIB comprise entre 1 % et 2 %, mais a
 ## Structure
 
 ```
+├── simulation_econat.pdf   # Rapport complet
 └── README.md
 ```
-
-Le rapport complet est disponible sur demande.

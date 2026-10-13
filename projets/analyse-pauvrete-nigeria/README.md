@@ -21,7 +21,8 @@ Les données proviennent de l'enquête GHS-Panel conduite par le National Bureau
 ## Structure
 
 ```
+├── analyse_pauvrete_nigeria.pdf   # Rapport complet
 └── README.md
 ```
 
-Le rapport complet est disponible sur demande. Les données brutes du GHS-Panel sont accessibles via le catalogue de la Banque mondiale.
+Les données brutes du GHS-Panel sont accessibles via le catalogue de la Banque mondiale.

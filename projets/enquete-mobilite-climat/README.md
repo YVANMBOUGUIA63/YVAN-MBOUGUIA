@@ -19,7 +19,8 @@ Le projet couvre l'ensemble du processus d'enquête. La première phase a consis
 ## Structure
 
 ```
+├── rapport_enquete.pdf     # Rapport d'enquête complet
+├── questionnaire.pdf       # Questionnaire administré
+├── analyses_donnees.xlsx   # Analyses statistiques des réponses
 └── README.md
 ```
-
-Le rapport d'enquête, le questionnaire et les analyses sont disponibles sur demande.
