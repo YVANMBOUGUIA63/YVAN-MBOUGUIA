@@ -10,11 +10,15 @@ Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvr
 
 ## Compétences techniques
 
-**Économétrie et données** : Stata, R, EViews, Python, SQL, Power BI, SPSS
+**Méthodes économétriques** : MCO, variables instrumentales (IV), double différence (DiD), contrôle synthétique, modèles Logit/Probit, ARMA/ARIMA, VAR, données de panel, modèles d'équilibre général calculable, approche expérimentale et quasi-expérimentale (RCT)
 
-**Visualisation et reporting** : Power BI, Excel, Zotero
+**Analyse de données** : construction et nettoyage de bases de données, statistiques descriptives, traitement de données complexes (recensements, panels, cohortes, big data), élaboration de questionnaires d'enquête, étude de marché
 
-**Certifications** : Google Advanced Data Analytics • Microsoft Power BI Data Analyst • IBM Data Science • Analyse d'impact par RCT (Banque mondiale) • Croissance économique (FMI) • Sciences comportementales dans les services publics (Banque mondiale)
+**Évaluation et gestion de projets** : évaluation d'impact de politiques publiques, cadre logique, étude de faisabilité, plan de financement, suivi-évaluation
+
+**Logiciels** : Stata, R (tidyverse), EViews, Python (pandas, numpy, matplotlib), SQL, Power BI, SPSS, Excel, Zotero
+
+**Certifications** : Google Advanced Data Analytics · Microsoft Power BI Data Analyst · IBM Data Science · Analyse d'impact par RCT (Banque mondiale) · Croissance économique (FMI) · Sciences comportementales dans les services publics (Banque mondiale)
 
 ## Parcours
 
