@@ -4,9 +4,9 @@
 
 ## Recherche
 
-Mon mémoire de M2 porte sur l'engagement dans l'application du tarif extérieur commun et la vulnérabilité des recettes fiscales aux chocs de prix des importations dans la zone franc CFA. J'utilise une méthode de double différence sur données de panel couvrant 14 pays de la zone franc et un groupe de contrôle de pays voisins, sur la période 2000-2022. L'analyse s'appuie sur l'indice d'engagement du FERDI pour mesurer l'écart entre tarifs appliqués et tarifs théoriques du TEC.
+Mon mémoire de M2 porte sur l'engagement dans l'application du tarif extérieur commun et la vulnérabilité des recettes fiscales aux chocs de prix des importations dans la zone franc CFA. J'utilise une méthode de double différence sur données de panel couvrant 14 pays de la zone franc et un groupe de contrôle de pays voisins, sur la période 2000-2022. L'analyse s'appuie sur  l'écart entre tarifs appliqués et tarifs théoriques du TEC.
 
-Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvreté, politique publique, transition climatique.
+Axes thématiques : fiscalité et mobilisation des ressources domestiques, pauvreté, politique publique, Commerce internationale, politique regionale; harmonisation fiscale.
 
 ## Compétences techniques
 
